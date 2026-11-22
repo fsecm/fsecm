@@ -1,32 +1,76 @@
-![I am GitHub ReadComputer Science Student | Aspiring Cybersecurity Professional | Security-Focused Builderme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQHxSPyPKLBJpQ/profile-displaybackgroundimage-shrink_200_800/B56Z2SCz_yKcAU-/0/1776271705165?e=1789603200&v=beta&t=_x4umNo3t3lrTv__hudu0Fq8_cpGM0lUhqU_k4VWhqA)
+<h1 align="center">Hi there 👋, I'm F.M. Yasin</h1>
 
-### Hi there 👋, F.M. Yasin
-#### I am GitHub ReadComputer Science Student | Aspiring Cybersecurity Professional | Security-Focused Builderme Generator's creator
+<p align="center">
+  <b>🔐 Aspiring Cybersecurity Professional | 🤖 Vibe Coder | 🌐 AI-Assisted Web Developer</b>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/fm-yasin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/8801919302725"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:yasin.cse.sec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-I’m a Computer Science & Engineering student building a career in Cybersecurity with a strong interest in Ethical Hacking, Web Security, Linux, Networking, and Security Engineering.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00C853?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-Coder-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge" />
+</p>
 
-I believe cybersecurity is learned by understanding how systems work, breaking them in controlled environments, and learning how to secure them.
+---
 
-Currently focused on hands-on security labs, CTFs, Linux, networking, security tools, and practical projects while continuously strengthening my programming and problem-solving skills.
+## 👨‍💻 About Me
 
-This GitHub is where I document my learning, experiments, projects, and progress toward becoming a cybersecurity professional.
+I'm a **Computer Science & Engineering student** building a career in **Cybersecurity**, with a strong interest in Ethical Hacking, Web Security, Linux, and Networking.
 
-Skills: Cybersecurity / Ethical Hacking / Web Security / Linux / Networking / C / Python / Data Structures & Algorithms / Git / GitHub
+I'm also a **vibe coder**: I use AI tools to turn ideas into working websites and apps fast, then learn how they work and how to **secure** them. 🔒
 
-- 🔭 I’m currently working on this page.Cybersecurity labs, CTF challenges, and security-focused projects 
-- 🌱 I’m currently learning Cybersecurity, Linux, Networking, Python, and Ethical Hacking 
-- 👯 I’m looking to collaborate on Cybersecurity projects, CTFs, automation, and open-source security tools 
-- 🤔 I’m looking for help with Building real-world cybersecurity projects and improving my security skills 
-- 💬 Ask me about Linux, Networking, C, Python, Cybersecurity, and CTFs 
-- 📫 How to reach me: https://www.linkedin.com/in/fm-yasin?utm_source=share_via&utm_content=profile&utm_medium=member_android 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I enjoy breaking things to understand how they work. 
+> I believe security is learned by understanding how systems work, breaking them in controlled environments, and then learning how to secure them.
 
+## 🔭 Currently
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fsecm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fm-yasin?utm_source=share_via&utm_content=profile&utm_medium=member_android/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/fsecm)  
+- 🔐 Learning Cybersecurity, Linux, Networking, and Ethical Hacking
+- 🤖 Building web projects with AI-assisted coding (vibe coding)
+- 🚩 Practicing CTF challenges and security labs
+- 👯 Looking to collaborate on web projects and open-source security tools
+- 💬 Ask me about Linux, Networking, Web Dev with AI, and CTFs
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fsecm&show_icons=true)  
+## 🛠️ Skills
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/fsecm/contributions?format=svg&private=false)  
+**Cybersecurity**
 
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0288D1?style=for-the-badge&logo=cisco&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Web Development (AI-Assisted)**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+**Programming & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Projects
+
+| Project | Description |
+|---------|-------------|
+| Coming soon | My web projects and security labs will be added here |
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fsecm&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsecm&layout=compact&theme=radical" />
+</p>
+
+## 📫 Contact
+
+- 📧 Email: [yasin.cse.sec@gmail.com](mailto:yasin.cse.sec@gmail.com)
+- 💬 WhatsApp: [+880 1919-302725](https://wa.me/8801919302725)
+- 💼 LinkedIn: [fm-yasin](https://www.linkedin.com/in/fm-yasin)
